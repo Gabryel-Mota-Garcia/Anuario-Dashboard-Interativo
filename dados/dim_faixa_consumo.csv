@@ -1,0 +1,15 @@
+Faixa de Consumo N1,Faixa de Consumo N2,Faixa de Consumo N2 Concat,CodFaixaConsumo,Setor Econômico - N2,Tipo Tensão - N1,Tipo Faixa de Consumo
+Não Aplicável,Não Aplicável,Não Aplicável,0,Não Aplicável,Não Aplicável,Não Aplicável
+Alta Tensão,Alta Tensão,NA,1,Convencional (Excepto Baixa Renda),A - Alta Tensão,TOTAL
+Convencional,0-30 kWh,: 0-30 kWh,2,Convencional (Excepto Baixa Renda),B - Baixa Tensão,0-30 kWh
+Convencional,31-100 kWh,: 31-100 kWh,3,Convencional (Excepto Baixa Renda),B - Baixa Tensão,31-100 kWh
+Convencional,101-200 kWh,: 101-200 kWh,4,Convencional (Excepto Baixa Renda),B - Baixa Tensão,101-200 kWh
+Convencional,201-300 kWh,: 201-300 kWh,5,Convencional (Excepto Baixa Renda),B - Baixa Tensão,201-300 kWh
+Convencional,301-400 kWh,: 301-400 kWh,6,Convencional (Excepto Baixa Renda),B - Baixa Tensão,301-400 kWh
+Convencional,401-500 kWh,: 401-500 kWh,7,Convencional (Excepto Baixa Renda),B - Baixa Tensão,401-500 kWh
+Convencional,501-1000 kWh,: 501-1000 kWh,8,Convencional (Excepto Baixa Renda),B - Baixa Tensão,501-1000 kWh
+Convencional,> 1000 kWh,: > 1000 kWh,9,Convencional (Excepto Baixa Renda),B - Baixa Tensão,> 1000 kWh
+Baixa Renda,0-30 kWh,: 0-30 kWh,10,Baixa Renda,B - Baixa Tensão,0-30 kWh
+Baixa Renda,31-100 kWh,: 31-100 kWh,11,Baixa Renda,B - Baixa Tensão,31-100 kWh
+Baixa Renda,101-200 kWh,: 101-200 kWh,12,Baixa Renda,B - Baixa Tensão,101-200 kWh
+Baixa Renda,> 200 kWh,: > 200 kWh,13,Baixa Renda,B - Baixa Tensão,> 200 kWh

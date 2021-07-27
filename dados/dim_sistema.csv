@@ -1,0 +1,6 @@
+Sistema,CodSistema,TipoSistema,sistema_join
+Nordeste,1,SIN,NORDESTE
+Sudeste / Centro-Oeste,2,SIN,SUDESTE / CENTRO - OESTE
+Sul,3,SIN,SUL
+Sistemas Isolados,4,Isolado,SISTEMAS ISOLADOS
+Norte Interligado,5,SIN,NORTE INTERLIGADO

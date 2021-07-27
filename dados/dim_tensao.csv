@@ -1,0 +1,12 @@
+Tipo Tensão - N1,Tipo Tensão - N2,Tipo Tensão - N3,CodTensao
+A - Alta Tensão,TOTAL,TOTAL,1
+B - Baixa Tensão,TOTAL,TOTAL,2
+A - Alta Tensão,A-1 - 230 kV ou mais,TOTAL,3
+A - Alta Tensão,A-2 - 88 a 138 kV,TOTAL,4
+A - Alta Tensão,A-3 - 69 kV,TOTAL,5
+A - Alta Tensão,A-3a - 30 a 44 kV,TOTAL,6
+A - Alta Tensão,"A-4 - 2,3 a 25 kV",TOTAL,7
+A - Alta Tensão,"AS - < 13,8 kV (Subterrâneo)",TOTAL,8
+B - Baixa Tensão,B-4,B4A Rede de Distribuição,9
+B - Baixa Tensão,B-4,B4B Bulbo da Lâmpada,10
+B - Baixa Tensão,B-4,Nível de IP Acima do Padrão,11

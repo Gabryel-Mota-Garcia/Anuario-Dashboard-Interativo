@@ -1,0 +1,33 @@
+Setor Econômico - N1,Setor Econômico - N2,Tipo Residencial - N1,CodSetorEconomico
+Residencial,Convencional (Excepto Baixa Renda),TOTAL,1
+Residencial,Baixa Renda,Baixa Renda N2,2
+Residencial,Baixa Renda,Baixa Renda Indígena,3
+Residencial,Baixa Renda,Baixa Renda Quilombola,4
+Residencial,Baixa Renda,Baixa Renda Assistência Social,5
+Residencial,Baixa Renda,Baixa Renda Multifamiliar,6
+Industrial,TOTAL,TOTAL,7
+Comercial,Comercial N2,TOTAL,8
+Comercial,Serviços de Transporte Exclusive Tração Animal,TOTAL,9
+Comercial,Serviços de Comunicações e Telecomunicações,TOTAL,10
+Comercial,Associação e Entidades Filantrópicas,TOTAL,11
+Comercial,Templos Religiosos,TOTAL,12
+Comercial,"Adm. Condominial, Iluminação, Uso Comum",TOTAL,13
+Comercial,Iluminação em Rodovias por Concessão,TOTAL,14
+Comercial,"Semáforos, Radares e Câmeras de Trânsito",TOTAL,15
+Comercial,Outros Serviços e Atividades,TOTAL,16
+Rural,Agropecuária,TOTAL,17
+Rural,Cooperativa de Eletrificação Rural,TOTAL,18
+Rural,Agroindústria,TOTAL,19
+Rural,Serviço Público de Irrigação,TOTAL,20
+Rural,Escola Agrotécnica,TOTAL,21
+Rural,Rural Residencial,TOTAL,22
+Rural,Agropecuária Urbana,TOTAL,23
+Rural,Aquicultura,TOTAL,24
+Poder Público,Federal,TOTAL,25
+Poder Público,Estadual ou Distrital,TOTAL,26
+Poder Público,Municipal,TOTAL,27
+Iluminação Pública,TOTAL,TOTAL,28
+Serviço Público,Tração Elétrica,TOTAL,29
+Serviço Público,"Água, Esgoto e Saneamento",TOTAL,30
+Consumo Próprio,Estação de recarga de veículos elétricos,TOTAL,31
+Consumo Próprio,Outras Atividades,TOTAL,32
